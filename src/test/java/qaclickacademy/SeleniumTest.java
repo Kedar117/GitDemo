@@ -12,11 +12,14 @@ public class SeleniumTest {
 	{
 		System.out.println("BrowserAutomation");
 		System.out.println("Web automation");
+		System.out.println("Web automation");
 	}
 	
 	@Test
 	public void elementsUI()
 	{
+		System.out.println("elementsUI");
+		System.out.println("elementsUI");
 		System.out.println("elementsUI");
 	}
 

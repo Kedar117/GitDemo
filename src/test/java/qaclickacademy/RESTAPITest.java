@@ -11,10 +11,6 @@ public class RESTAPITest {
 		System.out.println("psotJira2");
 		System.out.println("psotJira3");
 		
-		System.out.println("psotJira4");
-		System.out.println("psotJira5");
-		System.out.println("psotJira6");
-		System.out.println("psotJira7");
 		
 	}
 	
@@ -22,6 +18,9 @@ public class RESTAPITest {
 	public void deleteTwitter()
 	{
 		System.out.println("deleteTwitter");
+		System.out.println("deleteTwitter");
+		System.out.println("deleteTwitter");
+		
 	}
 
 }
